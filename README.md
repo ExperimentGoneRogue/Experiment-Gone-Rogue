@@ -10,3 +10,4 @@ the code of the doughnut in our game Experiment Gone Rogue.
  The doughnut can spawn in 12 variations. It can be 3 different flavors and have 4 different toppings.
  
  ![Doughnut Screenshot 1](https://raw.githubusercontent.com/ExperimentGoneRogue/Experiment-Gone-Rogue/master/Dougnuts_screenshot.png)
+ ![Doughnut Screenshot 2](https://raw.githubusercontent.com/ExperimentGoneRogue/Experiment-Gone-Rogue/master/Dougnuts_screenshot_2.png)
