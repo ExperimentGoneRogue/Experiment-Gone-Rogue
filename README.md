@@ -10,6 +10,7 @@ There is also a video that shows how the doughnuts should work in the game in yo
  This repository does not contain other parts of the game. 
  
  The doughnut can spawn in 12 variations. It can be 3 different flavors and have 4 different toppings.
+ If you would like to take a closer look at the model and maps used for the doughnuts you can follow [this link](https://opengameart.org/content/experiment-gone-rogue-doughnuts) to see them.
  
  ![Doughnut Screenshot 1](https://raw.githubusercontent.com/ExperimentGoneRogue/Experiment-Gone-Rogue/master/Dougnuts_screenshot.png)
  ![Doughnut Screenshot 2](https://raw.githubusercontent.com/ExperimentGoneRogue/Experiment-Gone-Rogue/master/Dougnuts_screenshot_2.png)
